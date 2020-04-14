@@ -8,8 +8,8 @@ class Book
     @title
   end
   
-  def authour=(authour)
-    @authour = authour
+  def author=(author)
+    @authour = author
   end
   
   def author 
