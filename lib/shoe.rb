@@ -1,6 +1,15 @@
-#class Shoe 
+class Shoe 
   
-  #def initialize(brand)
-    #@brand = brand
-  #end 
-#end
+  def initialize(brand)
+    @brand = brand
+  end 
+  
+  def color 
+    @color
+  end 
+  
+  
+  
+  
+  
+end
