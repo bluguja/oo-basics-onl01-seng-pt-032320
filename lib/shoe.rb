@@ -9,6 +9,8 @@
   BRANDS << brand unless BRANDS.any? { |b| b == brand }
 end
   
+  BRANDS=[]
+  
   def cobble
     
     self.condition = new
