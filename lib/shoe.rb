@@ -6,6 +6,8 @@
   def initialize(brand)
   @brand = brand
   
+  def coble
+  
   end
 
 
