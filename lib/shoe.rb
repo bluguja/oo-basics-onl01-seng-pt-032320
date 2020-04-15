@@ -6,7 +6,7 @@
   def initialize(brand)
   @brand = brand
   
-  def coble
+  def cobble
   
   end
 
