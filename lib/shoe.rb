@@ -8,6 +8,7 @@
   
   def cobble
     self.condition = new
+    puts = ""
   
   end
 
