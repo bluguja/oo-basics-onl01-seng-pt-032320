@@ -8,6 +8,7 @@
   @brand = brand
   
   def cobble
+    
     self.condition = new
     
     
