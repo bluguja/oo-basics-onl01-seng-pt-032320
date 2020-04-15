@@ -7,6 +7,7 @@
   @brand = brand
   
   def cobble
+    sel.condition = new
   
   end
 
